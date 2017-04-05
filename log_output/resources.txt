@@ -1,0 +1,20 @@
+ /shuttle/missions/sts-71/movies/sts-71-launch.mpg HTTP/1.0
+ /shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg HTTP/1.0
+ / HTTP/1.0
+ /shuttle/missions/sts-53/movies/sts-53-launch.mpg HTTP/1.0
+ /shuttle/countdown/count.gif HTTP/1.0
+ /shuttle/missions/sts-71/movies/sts-71-mir-dock.mpg HTTP/1.0
+ /shuttle/countdown/video/livevideo.gif HTTP/1.0
+ /shuttle/missions/sts-71/movies/crew-arrival-t38.mpg HTTP/1.0
+ /shuttle/missions/sts-71/movies/sts-71-mir-dock-2.mpg HTTP/1.0
+ /shuttle/missions/sts-71/movies/sts-71-hatch-hand-group.mpg
+ /shuttle/technology/sts-newsref/stsref-toc.html HTTP/1.0
+ /history/apollo/apollo-13/movies/apo13damage.mpg HTTP/1.0
+ /shuttle/countdown/count70.gif HTTP/1.0
+ /shuttle/missions/sts-71/images/index71.gif HTTP/1.0
+ /shuttle/missions/sts-71/movies/sts-71-hatch-hand-group.mpg HTTP/1.0
+ /shuttle/missions/sts-71/movies/sts-71-hand-shake.mpg HTTP/1.0
+ /shuttle/missions/sts-71/sts-71-patch-small.gif HTTP/1.0
+ /shuttle/missions/sts-71/movies/sts-71-launch-3.mpg HTTP/1.0
+ /shuttle/missions/sts-66/mission-sts-66.html HTTP/1.0
+ /shuttle/countdown/video/livevideo.jpeg HTTP/1.0
