@@ -6,7 +6,7 @@ The python script is placed under the src folder. The process_log.py uses bash s
 
 
  Bonus:
-In the other folder (insight_testsuite), bonus.py script helps to visualize the distribution of delta time from the first failed login attempts to the third . Clearly, the distribution is a mixture of two Poisson distributions. This can suggest us the failed attempts are most probably two different mechanisms (say:  cyber attack vs incorrect login password?). In turn failed login attempts can be remodeled not only 20secs  but two different distributions (I did not include this model in the data analysis).
+In the other folder (insight_testsuite), bonus.py script helps to visualize the distribution of delta time from the first failed login attempts to the third . Clearly, the distribution is a mixture of two Poisson distributions. This can suggest us the failed attempts are most probably two different mechanisms (say:  cyber attack vs incorrect login password?). In turn failed login attempts can be remodeled not only 20secs time window but two different distributions (I did not include this model in the data analysis).
 
 This script uses pandas and numpy libraries.
 
