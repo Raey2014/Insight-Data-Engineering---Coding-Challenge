@@ -1,6 +1,5 @@
 Insight Data Engineering - Coding Challenge Application for May 2017
 
-Submitted by: Merzu Kebede Belete
 
 The python script is placed under the src folder. The process_log.py uses bash script run.sh placed in the main folder. It solves all the challenge questions, which reads the log file, clean up and put it in to a dataframe. The cleaned output file of the original file is placed in the main directory. It ranks the most active IP hosts, bandwidth consumption and busiest 60-minute period in the extended duration of time or days. It also finds three failed login attempts from the same IP address in 20sec duration and helps to block all further attempts for the next 5 minutes.
 
